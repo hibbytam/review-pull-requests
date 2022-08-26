@@ -120,7 +120,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
 
 <details id=3>
 <summary><h2>Step 3: Suggest changes</h2></summary>
-
+suggest
 _Nice work reviewing that pull request :sparkles:_
 
 Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
